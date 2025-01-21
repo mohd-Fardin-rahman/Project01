@@ -8,7 +8,7 @@ const Screen2 = () => {
     })
   return (
     <View style={{flex:1, justifyContent:'center', alignItems:'center'}}>
-      <Text style={{fontSize:40}}>Screen 02</Text>
+      <Text style={{fontSize:40}}>Home Screen  2</Text>
       <Text style={{fontSize:40}}>{MyData}</Text>
     </View>
   )
