@@ -14,7 +14,7 @@ const Screen1 = () => {
    
   return (
     <View style={{flex:1, justifyContent:'center', alignItems:'center'}}>
-       <Text style={{fontSize:40}}>Screen 01</Text>
+       <Text style={{fontSize:40}}>Screen   0000001</Text>
       <Text style={{fontSize:40}}>  {Count} </Text>
       <View style={{height:40, width:300, display:'flex',flexDirection:'row', justifyContent:'space-around' }}>
       <Button title='Add' onPress={()=>{dispatch(increament())}}  />
